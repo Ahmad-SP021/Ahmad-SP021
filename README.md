@@ -4,12 +4,12 @@
 🧬 Passionate about bio-integrated systems, advanced gene editing, and AI-powered precision medicine — exploring the future where AI meets biology
 🤖 Machine Learning | BioNLP | Biomedical Signal & Image Processing
 
-- 🔭 I’m currently pursuing my M.Sc. in **Artificial Intelligence in Medicine**, focusing on the intersection of:
+- I’m currently pursuing my M.Sc. in **Artificial Intelligence in Medicine**, focusing on the intersection of:
 - **Deep Learning** & **Biomedical Data**
 - **CRISPR gene editing** and **predictive modeling**
 - **Medical Expert systems** & **image processing**
 
-  ### 💻 Skills & Tools
+### 💻 Skills & Tools
 - 🧠 **Languages**: Python, MATLAB  
 - 📦 **ML/DL**: PyTorch, Transformers, scikit-learn, Keras  
 - 📊 **Data**: Pandas, NumPy, Seaborn, Matplotlib  
